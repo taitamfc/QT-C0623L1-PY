@@ -7,6 +7,10 @@
     - https://www.python.org/downloads/
 
 Cài đặt các thư viện cho python
+- Mở comandline bằng cách
+    + Window + R
+    + Gõ cmd
+    + Enter
 - Kiểm tra phiên bản: 
     + py --version
 - Cài đặt PIP:  
