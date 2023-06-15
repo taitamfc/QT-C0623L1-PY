@@ -5,12 +5,12 @@
 
 Cài đặt các thư viện cho python
 - Kiểm tra phiên bản: 
-    py --version
+    + py --version
 - Cài đặt PIP:  
-    py -m pip install --upgrade pip
+    + py -m pip install --upgrade pip
 - Kiểm tra phiên bản pip:
-    pip --version
+    + pip --version
 - Cài đặt turtle: 
-    pip install turtle
+    + pip install turtle
 - Kiểm tra phiên bản turtle:
-    py -m turtle
+    + py -m turtle
