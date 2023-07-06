@@ -3,8 +3,6 @@ import turtle
 # Bước 2: tạo đối tượng
 t = turtle.Turtle()
 
-t.color("green")
-t.begin_fill()
 #Vẽ ngang (tiến về trước 100px)
 t.forward(100)
 
@@ -25,7 +23,6 @@ t.right(90)
 
 #Vẽ từ dưới lên trên (tiến về trước 100px)
 t.forward(100)
-t.end_fill()
 
 #Kết thúc
 turtle.done()
