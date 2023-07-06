@@ -7,5 +7,5 @@ for number in range(1, 10):
     for i in range(1, 10):
         # và in ra tích của number và các số từ 1 đến 9.
         result = number * i
-        print(f"{number} x {i} = {result}")
+        print(str(number) + ' x ' + str(i) + ' = ' + str(result))
     print()
